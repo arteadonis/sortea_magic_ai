@@ -1,0 +1,5 @@
+id,username,text,timestamp
+1,alice,Love this! @bob @carol,2025-01-01T00:00:00Z
+2,bob,Count me in @carol,2025-01-02T00:00:00Z
+3,carol,Good luck everyone!,2025-01-03T00:00:00Z
+4,ALICE,Another try @dave,2025-01-04T00:00:00Z

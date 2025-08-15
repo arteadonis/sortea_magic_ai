@@ -1,0 +1,7 @@
+{
+  "comments": [
+    {"id": "1", "username": "alice", "text": "Love this! @bob @carol", "timestamp": "2025-01-01T00:00:00Z"},
+    {"id": "2", "username": "bob", "text": "Count me in @carol", "timestamp": "2025-01-02T00:00:00Z"},
+    {"id": "3", "username": "carol", "text": "Good luck everyone!", "timestamp": "2025-01-03T00:00:00Z"}
+  ]
+}
